@@ -9,14 +9,14 @@ module.exports = {
           navy: "#0a1e31",
           red: "#930000",
           gold: "#ebca00",
-        }
+        },
       },
       inset: {
         "19/50": "38%",
       },
       zIndex: {
         "-10": "-10",
-      }
+      },
     },
   },
   variants: {},
