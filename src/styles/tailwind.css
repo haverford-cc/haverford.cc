@@ -17,7 +17,7 @@
 @layer utilities {
   .border-hcc {
     border: 2px solid #ebca00;
-    outline: 3px solid #930000;
+    box-shadow: 0 0 0 2pt #930000;
   }
 
   .text-shadow {
