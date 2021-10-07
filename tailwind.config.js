@@ -6,8 +6,7 @@ module.exports = {
     extend: {
       colors: {
         hcc: {
-          darknavy: "#0a1e31",
-          navy: "#254563",
+          navy: "#0a1e31",
           red: "#930000",
           gold: "#ebca00",
         }
