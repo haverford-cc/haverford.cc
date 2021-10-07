@@ -3,7 +3,22 @@ module.exports = {
   // https://tailwindcss.com/docs/just-in-time-mode
   // mode: "jit",
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        hcc: {
+          darknavy: "#0a1e31",
+          navy: "#254563",
+          red: "#930000",
+          gold: "#ebca00",
+        }
+      },
+      inset: {
+        "19/50": "38%",
+      },
+      zIndex: {
+        "-10": "-10",
+      }
+    },
   },
   variants: {},
   plugins: [],
