@@ -27,7 +27,9 @@ const App = () => (
 
       <a
         className="px-6 py-3 bg-hcc-navy font-semibold rounded text-xl drop-shadow-lg border-hcc hover:border-white transition-colors duration-300 ease-in-out"
-        href="#"
+        href="https://forms.gle/41fMxdyKzsoUY5peA"
+        target="_blank"
+        rel="noreferrer"
       >
         Join today!
       </a>
